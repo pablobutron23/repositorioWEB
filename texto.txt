@@ -1,1 +1,6 @@
 creacion de un archivo
+Hola muchachos
+
+Estamos en clase de Prog Web III
+esto es una prueba de GIT!!!
+
